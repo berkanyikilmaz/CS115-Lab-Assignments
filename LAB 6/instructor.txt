@@ -1,0 +1,8 @@
+1234;Ahmet Pekin;F;12
+7623;Burcu Koksal;P;6
+8911;Fatos Gurun;P;3
+2321;Aysel Buyuk;F;14
+7621;Fatih Tekin;F;16
+7833;Lale Balci;P;4
+3678;Dilek Sari;F;12
+6780;Erdem Tokgoz;F;13
